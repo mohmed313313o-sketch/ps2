@@ -1,0 +1,2 @@
+rootProject.name = "MuhanakPS2FullSuite"
+include(":app")
